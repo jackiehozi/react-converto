@@ -1,0 +1,25 @@
+h1,
+p {
+  font-family: Lato;
+  text-align: center;
+  color: darkslategrey;
+}
+body {
+  background-image: linear-gradient(
+    to right,
+    #ff8177 0%,
+    #ff867a 0%,
+    #ff8c7f 21%,
+    #f99185 52%,
+    #cf556c 78%,
+    #b12a5b 100%
+  );
+  justify-content: center;
+}
+
+.item {
+  background-color: #b3e3de;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 8px;
+}
